@@ -101,14 +101,6 @@ while True:
 python nome_do_arquivo.py
 ```
 
-## Contribuição
 
-Sinta-se à vontade para contribuir com melhorias e novas funcionalidades. Basta fazer um fork deste repositório, criar uma branch com suas alterações e abrir um pull request.
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
 
 Divirta-se codificando! 🚀
